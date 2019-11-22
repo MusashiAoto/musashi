@@ -1,0 +1,7 @@
+make target error -lcurses
+
+sudo apt-get install libncurses*
+
+make target createoi
+
+iRobotBluedoor/src/make

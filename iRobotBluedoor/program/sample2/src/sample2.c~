@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <createoi.h>
+void func08(void);
+void func09(void);
+void func10(void);
+void func11(void);
+void func12(void);
+void func13(void);
+int main()
+{
+  begin();
+
+  //  func08();
+  // func09();
+  // func10();
+  func11();
+  // func12();
+  // func13();
+
+  end();
+  return 0;
+}

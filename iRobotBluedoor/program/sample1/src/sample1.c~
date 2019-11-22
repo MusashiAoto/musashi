@@ -1,0 +1,18 @@
+
+#include<stdio.h>
+#include<createoi.h>
+
+int main(void)
+{
+  int i;
+  int angle;
+  
+  begin();
+
+  forwardDrive(300,10000);
+  forwardTurn(300,0,520);
+  forwardDrive(300,10000);
+  end();
+  return 0;
+
+}
